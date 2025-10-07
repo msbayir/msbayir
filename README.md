@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Sertaç Bayır
 
-<!--
-**msbayir/msbayir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Cloud Solution Architect** with over **20 years of experience** in IT, specializing in **multi-cloud environments** across **Azure, AWS, GCP, and Huawei Cloud**.  
+I design and implement **scalable, secure, and automated infrastructure** using modern DevOps practices — from Infrastructure as Code (IaC) with **Terraform** to CI/CD automation with **GitHub Actions** and **Azure DevOps**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🏢 Currently working at **Logosoft** as a **Cloud Solution Architect**  
+- ☁️ Passionate about **cloud architecture**, **DevOps**, and **automation**  
+- 🧩 Experienced in designing **CAF Landing Zones**, **AKS/GKE clusters**, and **multi-region architectures**  
+- ⚙️ Advocate for **clean code**, **modular Terraform design**, and **repeatable deployments**  
+- 🧠 Constantly learning — cloud, security, and modern app delivery
+
+---
+
+### 🧰 Tech Stack
+**Cloud Platforms:** Azure · AWS · GCP · Huawei Cloud  
+**IaC & Automation:** Terraform · Bicep · Ansible · GitHub Actions · Azure DevOps  
+**Containers & Orchestration:** Docker · Kubernetes · AKS · GKE · EKS  
+**Databases:** PostgreSQL · MySQL · SQL Server · Redis  
+**Monitoring & Security:** Azure Monitor · Log Analytics · Cloud Armor · CloudWatch
+
+---
+
+### 📊 GitHub Stats
+![Sertac's GitHub stats](https://github-readme-stats.vercel.app/api?username=msbayir&show_icons=true&theme=tokyonight)
+
+---
+
+### 🌍 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sertac%20Bayir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sertacbayir/)
+
+---
+
+> “Infrastructure should be simple, scalable, and secure — automation makes it repeatable.”
+
