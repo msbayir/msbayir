@@ -24,7 +24,7 @@ I design and implement **scalable, secure, and automated infrastructure** using 
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=msbayir&show_icons=true&theme=tokyonight)
+![Sertac's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=msbayir&show_icons=true&theme=tokyonight)
 
 ---
 
