@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sertaç Bayır
 
 I'm a **Cloud Solution Architect** with over **20 years of experience** in IT, specializing in **multi-cloud environments** across **Azure, AWS, GCP, and Huawei Cloud**.  
-I design and implement **scalable, secure, and automated infrastructure** using modern DevOps practices — from Infrastructure as Code (IaC) with **Terraform** to CI/CD automation with **GitHub Actions** and **Azure DevOps**.
+I design and implement **scalable, secure, and automated infrastructure** using modern DevOps practices from Infrastructure as Code (IaC) with **Terraform** to CI/CD automation with **GitHub Actions** and **Azure DevOps**.
 
 ---
 
@@ -24,7 +24,7 @@ I design and implement **scalable, secure, and automated infrastructure** using 
 ---
 
 ### 📊 GitHub Stats
-![Sertac's GitHub stats](https://github-readme-stats.vercel.app/api?username=msbayir&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=msbayir&show_icons=true&theme=tokyonight)
 
 ---
 
