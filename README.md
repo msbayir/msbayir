@@ -23,11 +23,6 @@ I design and implement **scalable, secure, and automated infrastructure** using 
 
 ---
 
-### 📊 GitHub Stats
-![Sertac's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=msbayir&show_icons=true&theme=tokyonight)
-
----
-
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sertac%20Bayir-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/serta%C3%A7-bayir-22087a53/)
 
